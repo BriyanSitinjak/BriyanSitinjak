@@ -1,5 +1,5 @@
-### Hi there 👋
-###### Highly interest in Software Engineering and UI/UX 🙌
+### Hello Everyone :handshake:
+###### Highly interest in Wordpress Development and Front-End Dev 🙌
 
 <p><a href="https://github.com/BriyanSitinjak"><img src="https://github-profile-trophy.vercel.app/?username=BriyanSitinjak&column=6&row=1&margin-w=15&margin-h=15" alt="Fizhu" /></a></p>
 <hr>
