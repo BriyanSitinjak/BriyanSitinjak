@@ -1,5 +1,5 @@
 ### Hello Everyone :handshake:
-###### Thanks for visit in my github profile. My Highly Interset on Front-End Dev :soon:
+###### Thanks for a visit to my GitHub profile. My Highly Interset on Frontend Development and WordPress Developement :soon:
 ###### Let's get connected 	:hugs:
 <p><a href="https://github.com/BriyanSitinjak"><img src="https://github-profile-trophy.vercel.app/?username=BriyanSitinjak&column=6&row=1&margin-w=15&margin-h=15" alt="Fizhu" /></a></p>
 <hr>
